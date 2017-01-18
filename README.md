@@ -11,6 +11,6 @@ Assignment1: Run applications in AWS EC2
 1. Open the command line
 2. Enter "npm init"
 3. Follow steps to configure the package.json file
-4. Enter "npm install express --save". A nodes_module folder should appear in the directory.
+4. Enter "npm install express --save". A node_modules folder should appear in the directory.
 5. Run app locally: http://127.0.0.1:3000/
 
