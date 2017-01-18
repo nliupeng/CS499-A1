@@ -1,0 +1,26 @@
+body {
+	background-color: #eee;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: large;
+}
+
+a {
+	text-decoration: none;
+	color: #e60000;
+	-webkit-transition: all .2s ease-in-out;
+        -moz-transition: all .2s ease-in-out;
+             -o-transition: all .2s ease-in-out;
+                 transition: all .2s ease-in-out;
+}
+a:hover {
+	color: #b30000;
+}
+
+i.fa {
+	margin: 0 10px;
+}
+
+#container {
+	margin: 70px;
+	margin-right: 30%;
+}
